@@ -17,7 +17,7 @@ A modern, responsive developer portfolio showcasing my profile, technical skills
 
 ## 🛠️ Tech Stack
 
-- **Frontend:** React, JavaScript, TypeScript
+- **Frontend:** React, JavaScript
 - **Styling:** Tailwind CSS
 - **UI Components:** shadcn/ui and Radix UI
 - **Build Tool:** Vite
@@ -95,7 +95,7 @@ Mansoor_Portfolio/
 │   ├── App.jsx         # Main portfolio layout
 │   └── main.jsx        # Application entry point
 ├── package.json
-├── vite.config.ts
+├── vite.config.js
 └── README.md
 ```
 
