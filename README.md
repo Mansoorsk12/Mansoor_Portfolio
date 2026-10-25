@@ -1,4 +1,4 @@
-# Shaik Mansoor Sadhik | Developer Portfolio
+# Shaik Mansoor Sadhik | Portfolio
 
 A modern, responsive developer portfolio showcasing my profile, technical skills, experience, projects, and contact information. Built with React, Vite, Tailwind CSS, and shadcn/ui.
 
